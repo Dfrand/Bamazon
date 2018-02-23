@@ -1,3 +1,4 @@
+-- Created DATABASE and TABLE
 create database bamazon;
 
 use bamazon;
@@ -12,6 +13,7 @@ CREATE TABLE products
     PRIMARY KEY (item_id)
 );
 
+--  Added Products to DATABASE
 INSERT INTO products(product_name,department_name,price,stock_quantity)
 VALUES ("5lb GummyBear","Snacks",23.64,15),
     ("GoldenEye","Video Games",52.73,100),

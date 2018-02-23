@@ -11,7 +11,7 @@ var connection = mysql.createConnection({
 
 connection.connect(function (err) {
     if (err) throw err;
-    console.log("connection successful!");
+    console.log("connected as id " + connection.threadId);
     productTable();
 })
 
@@ -61,7 +61,7 @@ var askCustomer = function (res) {
                                 productTable();
                             })
                     } else {
-                        console.log("Not a valid selection!");
+                        console.log("Insufficient quantity!");
                         askCustomer(res);
                     }
                 })
