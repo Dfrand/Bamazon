@@ -1,25 +1,24 @@
 # Bamazon
-CLI app that utilizes MySQL and Node.js
+CLI app that imitates an online store and utilizes MySQL and Node.js
 
  ![Bamazon Customer Portal](images/customerPortal.png)
 
+ ***
 ## Getting Started
-***
 
  - Clone repo.
  - Run 'npm install' in command line.
  - Run 'node index.js' to get started playing the game.
 
-
-## Technologies Used:
 ***
+## Technologies Used:
 
  * Javascript
  * nodeJS
  * MySQL
 
-##  Installs
 ***
+##  Installs
  
 ### Inquirer
  - `npm install inquirer`
@@ -27,9 +26,8 @@ CLI app that utilizes MySQL and Node.js
 ### MySQL
  - `npm install mysql`
 
-
-## Contributors:
-*** 
+***
+## Contributors: 
 
  - Derek Frand [GitHub](https://github.com/Dfrand)
  
