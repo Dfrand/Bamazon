@@ -1,6 +1,7 @@
 # Bamazon
 CLI app that utilizes MySQL and Node.js
-![Bamazon Customer Portal](Images/customerPortal.png)
+
+ ! [Bamazon Customer Portal](Images/customerPortal.png)
 
 ## Getting Started
 ***
