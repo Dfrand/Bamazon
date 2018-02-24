@@ -3,6 +3,8 @@ CLI app that imitates an online store and utilizes MySQL and Node.js
 
  ![Bamazon Customer Portal](images/customerPortal.png)
 
+ ![Bamazon In Action](images/Bamazon)
+
  ***
 ## Getting Started
 
